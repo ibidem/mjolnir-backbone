@@ -20,6 +20,12 @@ To include the files add the following core to the mjolnir theme's script
 }
 ```
 
+The module will try to integrate any missing dependencies with internal copies.
+As such, you are advised to place this core delaration after any dependencies 
+you would want to integrate manually (or gurantee you already have a copy of 
+the dependency in question in your source tree; which will cause the 
+integration system to ignore it).
+
 ## Mjolnir Theme Configuration
 
 The following are what you need to get starting using a standard mjolnir 
