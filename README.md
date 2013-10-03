@@ -1,8 +1,10 @@
-The following files are helpers for building web applications based on backbone.
-The classes provide some extra functionality.
+The following files are helpers for building web applications based on the
+popular [Backbone](http://backbonejs.org/). The scripts provide some extra
+functionality and are generally designed to integrate well with the default
+project structure.
 
-To include the files add the following core to the mjolnir project's
-[nyx](https://github.com/ibidem/nyx.gem).json
+To include the files add the following core to the mjolnir theme's script
+`[nyx](https://github.com/ibidem/nyx.gem).json`
 
 	{
 		"repo": "https://github.com/ibidem/mjolnir-backbone.git",
