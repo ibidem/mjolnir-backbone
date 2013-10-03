@@ -20,8 +20,8 @@ To include the files add the following core to the mjolnir theme's script
 
 ## Mjolnir Theme Configuration
 
-**The following are the are what you need to get starting using a standard
-mjolnir theme structure as the base.**
+*The following are what you need to get starting using a standard mjolnir 
+theme structure as the base.*
 
 Sample scripts configuration:
 
