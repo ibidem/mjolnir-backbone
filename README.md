@@ -16,7 +16,7 @@ To include the files add the following core to the mjolnir theme's script
 		"dependencies/packages": "src/packages",
 		"dependencies/widgets": "src/widgets"
 	},
-	"cleanup": ['dependencies']
+	"cleanup": ["dependencies"]
 }
 ```
 
