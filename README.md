@@ -4,7 +4,7 @@ functionality and are generally designed to integrate well with the default
 project structure.
 
 To include the files add the following core to the mjolnir theme's script
-`[nyx](https://github.com/ibidem/nyx.gem).json`
+[nyx](https://github.com/ibidem/nyx.gem).json
 
 	{
 		"repo": "https://github.com/ibidem/mjolnir-backbone.git",
