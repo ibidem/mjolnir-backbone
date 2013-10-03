@@ -20,10 +20,10 @@ To include the files add the following core to the mjolnir theme's script
 
 ## Mjolnir Theme Configuration
 
-*The following are what you need to get starting using a standard mjolnir 
-theme structure as the base.*
+The following are what you need to get starting using a standard mjolnir 
+theme structure as the base.
 
-Sample scripts configuration:
+**Sample scripts configuration**
 
 	<?php namespace app;
 
@@ -126,7 +126,7 @@ Sample scripts configuration:
 
 		); # config
 
-Sample template loading code:
+**Sample template loading code**
 
 	<?
 		namespace app;
