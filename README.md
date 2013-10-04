@@ -59,7 +59,7 @@ theme structure as the base.
 
 	$plugins = Arr::index
 		(
-			$mjolnir_required_widgets,
+			$mjolnir_required_widgets
 			// ...your application plugins...
 		);
 
